@@ -1,0 +1,4 @@
+这是直接在vscode左侧源代码管理器中“克隆仓库”得到的。之前不行，报错：fatal: unable to access 'https://github.com/ipcer-firegod/First_Try.git/': SSL certificate problem: unable to get local issuer certificate
+现在不知为何可以了。
+又把安全软件打开，（之前关闭过，但关闭后的第一次尝试仍不行），又不行了。
+推测就是安全软件的原因，再次尝试。
